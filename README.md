@@ -11,11 +11,6 @@
 - 📫 How to reach me: [:star:](2289426721@qq.com)
 - 😄 Read more about my CSDN: [:star:](https://blog.csdn.net/oageux?type=blog)
 
-  
-|![](https://github-readme-stats.vercel.app/api?username=xuegao2005&show_icons=true&theme=github_dark_dimmed)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=xuegao2005&layout=compact&theme=github_dark_dimmed)|
-| --- | --- |
-
-
 ### My Skill Set
 ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C%2B%2B-41CD52?style=for-the-badge&logo=c%2B%2B&color=%23874367)
