@@ -35,11 +35,7 @@
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,c,go,js,css,html&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 
-### My Skill Set
-![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C%2B%2B-41CD52?style=for-the-badge&logo=c%2B%2B&color=%23874367)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
